@@ -1,4 +1,7 @@
 body{
-   color: rgb(255,123,10);  
+  
    background-image: url('backgrounds.jpg');">
+}
+p{
+  color: white;
 }
